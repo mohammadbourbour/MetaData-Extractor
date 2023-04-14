@@ -42,7 +42,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 # License
 
-The MetadataExtractorApp is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for more information.
+The MetadataExtractorApp is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 # Donations
 
