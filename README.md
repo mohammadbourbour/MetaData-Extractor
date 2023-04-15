@@ -46,11 +46,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 The MetadataExtractorApp is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-# Donations
-
-If you found this script helpful and would like to support the developer, you can send a donation to the following wallet address:
-
-- Ethereum: 0xD284D48F4a380140ad135B0A21C7030581C2CA34
-
-Your donations are greatly appreciated and will help support the development of this and other open-source projects. Thank you for your support!
-
