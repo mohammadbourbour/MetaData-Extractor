@@ -20,6 +20,8 @@ The app also provides a preview of the selected image.
 
 - PIL (Python Imaging Library) module
 
+- CSV library
+
 # How to Run
 
 Clone the repository from GitHub:
